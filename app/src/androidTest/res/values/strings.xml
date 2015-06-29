@@ -1,0 +1,4 @@
+<resources>
+    <string name="test_title_activity">TestActivity</string>
+    <string name="test_hello_world">hello test</string>
+</resources>

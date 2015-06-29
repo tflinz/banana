@@ -1,0 +1,1 @@
+include ':app', ':bananafetcher', ':bananafinder'
