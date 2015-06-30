@@ -1,1 +1,1 @@
-include ':app', ':bananafetcher', ':bananafinder'
+include ':app', ':bananafetcher', ':bananafinder', ':bananajar'

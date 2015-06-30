@@ -1,4 +1,4 @@
-package com.tutela.bananafetcher;
+package com.tutelatechnologies.fun.bananafetcher;
 
 import android.test.ActivityInstrumentationTestCase2;
 import android.widget.TextView;

@@ -31,7 +31,11 @@ buildscript {
 
 allprojects {
     repositories {
-        jcenter()
+        mavenLocal()
+        maven {
+            url "http://corki.tutela.tut:8081/nexus/content/repositories/public"
+        }
+        //jcenter()
     }
 }
 
@@ -61,7 +65,7 @@ subprojects {
                 }
 
                 dependencies {
-                    compile 'com.android.support:appcompat-v7:22.2.0'
+                    //compile 'com.android.support:appcompat-v7:22.2.0'
                     androidTestCompile 'junit:junit:4.12'
                 }
             }

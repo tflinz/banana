@@ -1,4 +1,4 @@
-package com.example.bananafinder;
+package com.tutelatechnologies.fun.bananafinder;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

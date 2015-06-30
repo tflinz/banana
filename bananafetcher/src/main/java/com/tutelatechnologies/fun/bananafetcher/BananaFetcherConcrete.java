@@ -1,4 +1,4 @@
-package com.tutela.bananafetcher;
+package com.tutelatechnologies.fun.bananafetcher;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -7,13 +7,12 @@ import android.util.Log;
 import android.webkit.WebView;
 import android.widget.ImageView;
 
-import com.example.bananafinder.BananaFinder;
-import com.example.bananafinder.BananaFinderConcrete;
+import com.tutelatechnologies.fun.bananafinder.BananaFinder;
+import com.tutelatechnologies.fun.bananafinder.BananaFinderConcrete;
 
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.concurrent.ExecutionException;

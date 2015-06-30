@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bananafetcher" />
             <option value="$PROJECT_DIR$/bananafinder" />
+            <option value="$PROJECT_DIR$/bananajar" />
           </set>
         </option>
       </GradleProjectSettings>

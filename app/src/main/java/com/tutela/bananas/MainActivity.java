@@ -2,15 +2,11 @@ package com.tutela.bananas;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.webkit.WebView;
-import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.tutela.bananafetcher.BananaFetcher;
-import com.tutela.bananafetcher.BananaFetcherConcrete;
+import com.tutelatechnologies.fun.bananafetcher.BananaFetcher;
+import com.tutelatechnologies.fun.bananafetcher.BananaFetcherConcrete;
 
 
 /**

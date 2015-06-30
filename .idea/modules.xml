@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bananafetcher/bananafetcher.iml" filepath="$PROJECT_DIR$/bananafetcher/bananafetcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/bananafinder/bananafinder.iml" filepath="$PROJECT_DIR$/bananafinder/bananafinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bananajar/bananajar.iml" filepath="$PROJECT_DIR$/bananajar/bananajar.iml" />
     </modules>
   </component>
 </project>

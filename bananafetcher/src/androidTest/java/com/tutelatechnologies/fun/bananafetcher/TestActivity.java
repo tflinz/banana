@@ -1,4 +1,4 @@
-package com.tutela.bananafetcher;
+package com.tutelatechnologies.fun.bananafetcher;
 
 import android.app.Activity;
 import android.os.Bundle;

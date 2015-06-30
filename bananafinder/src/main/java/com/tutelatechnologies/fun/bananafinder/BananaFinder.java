@@ -1,6 +1,4 @@
-package com.example.bananafinder;
-
-import java.net.URL;
+package com.tutelatechnologies.fun.bananafinder;
 
 /**
  * It. Finds bananas.
