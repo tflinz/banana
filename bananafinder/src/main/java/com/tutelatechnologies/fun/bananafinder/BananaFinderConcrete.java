@@ -10,6 +10,11 @@ import java.util.Random;
 public class BananaFinderConcrete implements BananaFinder {
 
     /**
+     * Default banana to use.
+     */
+    static final String DEFAULT_BANANA = "http://img3.wikia.nocookie.net/__cb20071019155930/uncyclopedia/images/7/7b/Dancing_banana.gif";
+
+    /**
      * A list of available bananas.
      */
     private final List<String> bananas;
@@ -20,10 +25,9 @@ public class BananaFinderConcrete implements BananaFinder {
 
     /**
      * Initializes list of bananas.
-     *
      */
-    public BananaFinderConcrete()  {
-        bananas = Arrays.asList("http://img3.wikia.nocookie.net/__cb20071019155930/uncyclopedia/images/7/7b/Dancing_banana.gif");
+    public BananaFinderConcrete() {
+        bananas = Arrays.asList(DEFAULT_BANANA);
         r = new Random();
     }
 

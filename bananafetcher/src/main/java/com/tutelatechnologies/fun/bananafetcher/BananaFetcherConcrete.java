@@ -8,6 +8,7 @@ import android.webkit.WebView;
 import android.widget.ImageView;
 
 import com.tutelatechnologies.fun.bananafinder.BananaFinder;
+import com.tutelatechnologies.fun.bananafinder.BananaFinderAWS;
 import com.tutelatechnologies.fun.bananafinder.BananaFinderConcrete;
 
 import java.io.BufferedInputStream;
@@ -37,7 +38,7 @@ public class BananaFetcherConcrete implements BananaFetcher {
      * Create a new concrete banana fetcher.
      */
     public BananaFetcherConcrete() {
-        bFinder = new BananaFinderConcrete();
+        bFinder = new BananaFinderAWS();
     }
 
     @Override
